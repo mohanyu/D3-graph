@@ -4,7 +4,7 @@
 
 # 效果演示
 
-<img src="img.png" width="636"/>
+<img src="./img.png" width="636"/>
 
 ## 功能
 
